@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main(int argc, char const *argv[])
+// multiplication table of any number
+int main()
 {
     int num;
     printf("Enter the number you want multiplication table of:\n");
